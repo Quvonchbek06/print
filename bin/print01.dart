@@ -1,1 +1,6 @@
-void main() {}
+void main() {
+
+    print("  )");
+    print(" (");
+    print("[_])");
+}
